@@ -2,9 +2,9 @@
   "name": "nuuvo-wave",
   "displayName": "nuuvo - wave",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "jacksonhardy",
-  "repository": "jacksonhardy/nuuvo",
+  "repository": "jacksonhardy/nuuvo-themes",
   "engines": {
     "vscode": "^1.73.0"
   },
