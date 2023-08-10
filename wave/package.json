@@ -1,0 +1,23 @@
+{
+  "name": "nuuvo-wave",
+  "displayName": "nuuvo - wave",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "jacksonhardy",
+  "repository": "jacksonhardy/nuuvo",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "nuuvo - wave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nuuvo-wave-color-theme.json"
+      }
+    ]
+  }
+}
