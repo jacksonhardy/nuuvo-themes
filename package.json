@@ -2,9 +2,10 @@
   "name": "nuuvo",
   "displayName": "nuuvo",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "jacksonhardy",
   "repository": "jacksonhardy/nuuvo-themes",
+  "icon": "/assets/circle.png",
   "engines": {
     "vscode": "^1.73.0"
   },
@@ -13,6 +14,36 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "nuuvo - a",
+        "uiTheme": "vs-dark",
+        "path": "./themes/a-color-theme.json"
+      },
+      {
+        "label": "nuuvo - deep veil",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deep-veil-color-theme.json"
+      },
+      {
+        "label": "nuuvo - gloom glam",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gloom-glam-color-theme.json"
+      },
+      {
+        "label": "nuuvo - paper is",
+        "uiTheme": "vs-dark",
+        "path": "./themes/paper-is-color-theme.json"
+      },
+      {
+        "label": "nuuvo - soft era",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soft-era-color-theme.json"
+      },
+      {
+        "label": "nuuvo - space max",
+        "uiTheme": "vs-dark",
+        "path": "./themes/space-max-color-theme.json"
+      },
       {
         "label": "nuuvo - wave",
         "uiTheme": "vs-dark",

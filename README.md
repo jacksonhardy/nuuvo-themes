@@ -7,13 +7,19 @@ VS Code Editor + Syntax Themes
 ### current
 
 - wave
-
-### coming soon
-
 - deep veil
 - gloom glam
 - space max
 - a
 - paper is
-- tokyo night
 - soft era
+
+### coming soon
+
+- tokyo night
+- moon
+- pine
+- kitty
+- min dark
+- min light
+- floral
