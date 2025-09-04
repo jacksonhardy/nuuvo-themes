@@ -2,7 +2,7 @@
   "name": "nuuvo",
   "displayName": "nuuvo",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "jacksonhardy",
   "repository": "jacksonhardy/nuuvo-themes",
   "icon": "/assets/circle.png",
@@ -16,7 +16,7 @@
     "themes": [
       {
         "label": "nuuvo - a",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/a-color-theme.json"
       },
       {
@@ -31,12 +31,12 @@
       },
       {
         "label": "nuuvo - paper is",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/paper-is-color-theme.json"
       },
       {
         "label": "nuuvo - soft era",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/soft-era-color-theme.json"
       },
       {
